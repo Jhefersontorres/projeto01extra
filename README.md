@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> <img src="public/favicon.ico"> ROCKETSEAT FORMAÇÃO EXPLORER </h1>
-  <img src="public/Desktop.png">
+  <h1>  ROCKETSEAT FORMAÇÃO EXPLORER </h1>
+  
   <h3> EXPLORER PROJETO 01 EXTRA</h3>
 </div>
 
@@ -11,7 +11,7 @@
 Desenvolvido landigpage, utilizando os conceitos e ensimamentos adiqueridos no conteudo de introdução ao HTML e CSS.
 
 <div align="center">
-    <img src="public/Projeto 01.png">
+    <img src="public/Desktop.png">
 </div>
 
 ## ⛏ Tecnologias
